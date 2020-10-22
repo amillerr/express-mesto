@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2ac8d83-5996-481d-aaca-d79a6a7e785e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1j3xbzoJSV3CVjFszdqLihFQoPh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/usr/local/bin/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="/usr/local/bin/node" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" activateToolWindowBeforeRun="false" application-parameters="$ClipboardContent$" path-to-node="/usr/local/bin/node">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2ac8d83-5996-481d-aaca-d79a6a7e785e" name="Default Changelist" comment="" />
+      <created>1603046653910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603046653910</updated>
+      <workItem from="1603046655451" duration="746000" />
+      <workItem from="1603190645390" duration="368000" />
+      <workItem from="1603191032288" duration="356000" />
+      <workItem from="1603191405829" duration="1689000" />
+      <workItem from="1603281524737" duration="46000" />
+      <workItem from="1603281775561" duration="6923000" />
+      <workItem from="1603362910263" duration="2987000" />
+      <workItem from="1603366248680" duration="896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="182" key="#ESLint" timestamp="1603364152753">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="465" y="182" key="#ESLint/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603364152753" />
+    <state x="354" y="123" key="#Inspections" timestamp="1603361109005">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="354" y="123" key="#Inspections/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603361109005" />
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603364268171">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603364268171" />
+    <state x="507" y="149" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1603364241230">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="507" y="149" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603364241230" />
+    <state x="507" y="199" key="FileChooserDialogImpl" timestamp="1603362178791">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="507" y="199" key="FileChooserDialogImpl/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603362178791" />
+    <state x="221" y="76" key="SettingsEditor" timestamp="1603378976667">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="221" y="76" key="SettingsEditor/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603364330517" />
+    <state x="221" y="76" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1603378976667" />
+    <state x="444" y="252" key="jetbrains.nodejs.interpreters-dialog" timestamp="1603362179719">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="444" y="252" key="jetbrains.nodejs.interpreters-dialog/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603362179719" />
+    <state x="385" y="176" width="670" height="676" key="search.everywhere.popup" timestamp="1603284516499">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="385" y="176" width="670" height="676" key="search.everywhere.popup/0.23.1440.829/-248.-1057.1920.1057@0.23.1440.829" timestamp="1603284516499" />
+  </component>
+</project>
