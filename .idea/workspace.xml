@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1603281524737" duration="46000" />
       <workItem from="1603281775561" duration="6923000" />
       <workItem from="1603362910263" duration="2987000" />
-      <workItem from="1603366248680" duration="896000" />
+      <workItem from="1603366248680" duration="1244000" />
     </task>
     <servers />
   </component>
