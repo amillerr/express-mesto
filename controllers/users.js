@@ -15,11 +15,8 @@ const getCurrentUser = (req, res) => {
   readFile(usersPath)
     .then((data) => {
       const userById = data.find((user) => user._id === req.params.id);
-      return userById;
-    })
-    .then((userById) => {
       if (!userById) {
-        return res.status(500).send({ message: 'Нет пользователя с таким id' });
+        return res.status(404).send({ message: 'Нет пользователя с таким id' });
       }
       return res.send(userById);
     })
