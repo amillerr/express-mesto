@@ -2,7 +2,7 @@ const Card = require('../models/card');
 
 const getCards = (req, res) => {
   Card.find({})
-    .then((data) => res.send(data))
+    .then((data) => res.status(200).send(data))
     .catch((error) => res.status(500).send({ message: `Внутренняя ошибка сервера ${error}` }));
 };
 
@@ -11,7 +11,7 @@ const createCard = (req, res) => {
   const owner = req.user._id;
 
   Card.create({ name, link, owner })
-    .then((card) => res.send(card))
+    .then((card) => res.status(200).send(card))
     .catch((error) => {
       if (error.name === 'ValidationError') {
         return res.status(400).send({ message: 'Ошибка валидации. Повторите запрос' });
@@ -22,7 +22,8 @@ const createCard = (req, res) => {
 
 const deleteCard = (req, res) => {
   Card.findByIdAndRemove(req.params.cardId)
-    .then((card) => res.send(card))
+    .orFail()
+    .then((card) => res.status(200).send(card))
     .catch((error) => {
       if (error.name === 'CastError') {
         res.status(400).send({ message: 'Переданы некорректные данные' });
